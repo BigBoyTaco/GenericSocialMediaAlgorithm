@@ -3,6 +3,7 @@ A small algorithm designed for social media use.
 
 # Ussage
 commands:
+        
         -h: show this help msg
         -n: create a new user (Ex: gsa -n usrName name birthday email)
         -s: serve content to user (Ex: gsa -s usrName)
