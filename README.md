@@ -1,8 +1,17 @@
 # GenericSocialMediaAlgorithm
 A small algorithm designed for social media use.
 
+# About
+Generic Social Media Algorithm is test peice of software that can decide peices of content to show to a user based off a their interests.
+
+# Future of GSA
+Currently, GSA's algorithm isn't very advanced. I plan to make the algorithm more advanced in order to make currated content more interesting to the user. This advanced mode will be a togglable.
+
+# How it works
+When creating a peice of content you specify hashtags related to what the content is about. all the folders under \\content\\content are hashtags with content in them, under a hashtag folder is the peice of content with the hash tag. (SUBJECT TO CHANGE) (Ex: \\content\\content\\dogs\\IdOfContent.txt)  
+
 # Ussage
-commands:
+Commands:
         
         -h: show this help msg
         -n: create a new user (Ex: gsa -n usrName name birthday email)
