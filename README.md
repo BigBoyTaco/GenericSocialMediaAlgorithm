@@ -23,4 +23,4 @@ Commands:
         -a: add interests to user (Ex: gsa -a usrName interest1,interest2,interest3 [MUST BE SEPARATED BY COMMA NO SPACES])
         -g get a users info (Ex: gsa -g usrName)
 # Using the Api:
-        ![apiDemoImage](apiDemo.png)
+![apiDemoImage](apiDemo.png)
